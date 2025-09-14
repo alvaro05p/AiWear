@@ -1,5 +1,6 @@
 import Header from "./Header"
 import Hero from "./Hero"
+import MainProducts from "./MainProducs"
 
 function App() {
 
@@ -7,6 +8,7 @@ function App() {
     <>
       <Header></Header>
       <Hero></Hero>
+      <MainProducts></MainProducts>
     </>
   )
 }
